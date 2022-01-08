@@ -8,8 +8,6 @@ configuration {
 	sidebar-mode: 			false;
 }
 
-@theme "/dev/null"
-
 * {
 	bg:				#151515;
 	fg:				#e8e8d3;
