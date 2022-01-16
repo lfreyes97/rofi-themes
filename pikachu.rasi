@@ -13,8 +13,6 @@ configuration {
 	sidebar-mode: 			false;
 }
 
-@theme "/dev/null"
-
 * {
     gui00:      #20202A;
     gui01:      #2C2E3E;
@@ -68,7 +66,7 @@ configuration {
 	width:				            170px;
 	expand:				            false;
 	border:				            5px;
-	background-image:               url("styles/img/pika.png", height);
+	background-image:               url("img/pika.png", height);
 }
 
 #entry {

@@ -6,8 +6,6 @@ configuration {
 	sidebar-mode: 			false;
 }
 
-@theme "/dev/null"
-
 * {
 	bg:				#061115;
 	fg:				#d9d7d6;

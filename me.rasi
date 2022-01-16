@@ -13,8 +13,6 @@
 	sidebar-mode: 			false;
 }
 
-@theme "/dev/null"
-
 * {
 
     gui00: #2D394D;
